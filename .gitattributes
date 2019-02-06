@@ -6,4 +6,4 @@
 *.css linguist-vendored=false
 *.css linguist-language=CSS
 *.sql linguist-detectable=true
-*.sql linguist-language=SQL
+*.sql linguist-language=sql
