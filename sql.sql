@@ -1,1 +1,1 @@
-sql
+Komunikacja z bazą
