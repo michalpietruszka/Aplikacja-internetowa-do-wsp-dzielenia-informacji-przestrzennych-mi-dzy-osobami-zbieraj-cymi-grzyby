@@ -5,3 +5,5 @@
 *.html linguist-language=HTML
 *.css linguist-vendored=false
 *.css linguist-language=CSS
+*.sql linguist-vendored=false
+*.sql linguist-language=SQL
